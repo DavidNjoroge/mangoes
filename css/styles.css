@@ -1,0 +1,11 @@
+h1{
+  text-align: center;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.main img{
+  float: right;
+}
